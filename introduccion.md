@@ -1,0 +1,1 @@
+La monitorización del sistema informático consiste en la instalación de una serie de sensores en los diferentes elementos hardware y software de forma que, 24h al día y 7 días a la semana, estos sensores registran la situación en que están cada uno de los aspectos que controlamos.
