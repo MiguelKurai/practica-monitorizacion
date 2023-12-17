@@ -6,6 +6,6 @@
 3. [Sistemas de monitorización](sistemas.md)
 
 ## Referencias
-[Overtel](https://overtel.com/blog-3/monitorizacion-de-sistemas-que-es-pasos-a-seguir-y-plataformas-habituales)
+* [Overtel](https://overtel.com/blog-3/monitorizacion-de-sistemas-que-es-pasos-a-seguir-y-plataformas-habituales)
 
-[CharGPT](https://chat.openai.com)
+* [CharGPT](https://chat.openai.com)
