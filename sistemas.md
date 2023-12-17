@@ -17,8 +17,8 @@ Fue diseñado para proporcionar a los administradores de sistemas una visión co
 
 - Soporte para SNMP: Nagios puede utilizar SNMP para recopilar información sobre el estado de los dispositivos de red.
 
-2. **Zabbix**
-Zabbix es otra herramienta de monitoreo diseñada para supervisar la salud y el rendimiento de los sistemas informáticos. Similar a Nagios, Zabbix ofrece capacidades avanzadas de monitoreo y notificación para una variedad de dispositivos, sistemas y aplicaciones. Algunas de sus características son:
+2. **Zabbix:**
+Es otra herramienta de monitoreo diseñada para supervisar la salud y el rendimiento de los sistemas informáticos. Similar a Nagios, Zabbix ofrece capacidades avanzadas de monitoreo y notificación para una variedad de dispositivos, sistemas y aplicaciones. Algunas de sus características son:
 
 - Monitoreo de Hosts y Servicios.
 
@@ -36,8 +36,8 @@ Zabbix es otra herramienta de monitoreo diseñada para supervisar la salud y el 
 
 - Escalabilidad.
 
-3. Prometheus
-Prometheus es un sistema de monitoreo diseñado para recopilar, almacenar y consultar métricas de sistemas y servicios. Algunas de sus características clave son:
+3. **Prometheus:**
+Es un sistema de monitoreo diseñado para recopilar, almacenar y consultar métricas de sistemas y servicios. Algunas de sus características clave son:
 
 - Modelo de Datos Multidimensional: Prometheus utiliza un modelo de datos multidimensional que permite etiquetar métricas con información adicional. Esto sirve para facilitar la consulta y el análisis de los datos.
 
@@ -55,10 +55,9 @@ Prometheus es un sistema de monitoreo diseñado para recopilar, almacenar y cons
 
 - Soporte para Lenguajes y Plataformas Diversas.
 
-4. Grafana
+4. **Grafana:**
+Es una plataforma para visualizar y analizar datos a través de paneles interactivos y gráficos.
 
-- Grafana es una plataforma para visualizar y analizar datos a través de paneles interactivos y gráficos.
-- 
 - Su objetivo principal es proporcionar una interfaz gráfica que permita a los usuarios monitorear, analizar y comprender mejor los datos provenientes de diversas fuentes.
-- 
+
 - Grafana trabaja frecuentemente junto a sistemas de monitoreo como Prometheus y bases de datos de series temporales.
