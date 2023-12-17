@@ -57,4 +57,8 @@ Prometheus es un sistema de monitoreo diseñado para recopilar, almacenar y cons
 
 4. Grafana
 
-Grafana es una plataforma para visualizar y analizar datos a través de paneles interactivos y gráficos. Su objetivo principal es proporcionar una interfaz gráfica que permita a los usuarios monitorear, analizar y comprender mejor los datos provenientes de diversas fuentes. Grafana trabaja frecuentemente junto a sistemas de monitoreo como Prometheus y bases de datos de series temporales.
+- Grafana es una plataforma para visualizar y analizar datos a través de paneles interactivos y gráficos.
+- 
+- Su objetivo principal es proporcionar una interfaz gráfica que permita a los usuarios monitorear, analizar y comprender mejor los datos provenientes de diversas fuentes.
+- 
+- Grafana trabaja frecuentemente junto a sistemas de monitoreo como Prometheus y bases de datos de series temporales.
